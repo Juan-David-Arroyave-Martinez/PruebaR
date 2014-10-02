@@ -1,0 +1,1300 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	background-image:url(../img/black-Linen.png);
+}
+
+header
+{
+	background-image:url(../img/headerimg.jpg);
+	background-repeat:repeat-x;
+	width:100%;
+	height:120px;
+	margin:auto;
+	margin-top:5px;
+	box-shadow:0px 2px 3px rgba(0,0,0,0.55);
+}
+
+#logo
+{
+	width:62px;
+	height:116px;
+	background-image:url(../img/logo2.png);
+	background-position:center center;
+	background-size:100% 100%;
+	position:absolute;
+	top:-5px;
+	left:0px;
+}
+
+header nav ul
+{
+	margin-left:70px;
+}
+
+header nav ul li
+{
+	display:inline-block;
+	color:rgba(255,255,255,1.00);
+	font-size:14px;
+	font-family:"orator-medium";
+	width:100px;
+	height:40px;
+	text-align:center;
+	margin-top:40px;
+	box-sizing:border-box;
+	padding-top:5px;
+	margin-right:10px;
+	cursor:pointer;
+	border:1px solid rgba(255,255,255,1.00);
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	-moz-transition:all 0.5s linear;
+	-o-transition:all 0.5s linear;
+}
+
+#Bienvenida
+{
+	margin:auto;
+}
+
+#Bienvenida article h1
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	margin-top:50px;
+}
+
+#Bienvenida article
+{
+	margin:auto;
+}
+
+#Bienvenida article p
+{
+	font-family:"orator-medium";
+	width:450px;
+	text-align:center;
+	margin:auto;
+	margin-top:80px;
+	color:rgba(255,255,255,1.00);
+}
+
+.insectn
+{
+	background-color:rgba(255,255,255,1.00);
+	color:rgba(0,0,0,1.00);
+}
+
+#Camisas
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	width:100%;
+	height:350px;
+	overflow:scroll;
+	display:none;
+}
+
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	display:inline-block;
+	cursor:pointer;
+}
+
+#Camisas ul li h1
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:140px;
+	background-color:rgba(222,24,103,1.00);
+}
+
+#Camisas ul li h3
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:10px;
+}
+
+#camisa1
+{
+	background-image:url(../img/camisa1.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa2
+{
+	background-image:url(../img/camisa2.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa3
+{
+	background-image:url(../img/camisa3.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa4
+{
+	background-image:url(../img/camisa4.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa5
+{
+	background-image:url(../img/camisa5.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa6
+{
+	background-image:url(../img/camisa6.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa7
+{
+	background-image:url(../img/camisa7.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa8
+{
+	background-image:url(../img/camisa8.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa9
+{
+	background-image:url(../img/camisa9.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa10
+{
+	background-image:url(../img/camisa10.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camisa11
+{
+	background-image:url(../img/camisa11.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#Camisetas
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	width:100%;
+	height:350px;
+	overflow:scroll;
+	display:none;
+}
+
+#Camisetas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	display:inline-block;
+	cursor:pointer;
+}
+
+#Camisetas ul li h1
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:140px;
+	background-color:rgba(222,24,103,1.00);
+}
+
+#Camisetas ul li h3
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:10px;
+}
+
+#camiseta1
+{
+	background-image:url(../img/camiseta1.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta2
+{
+	background-image:url(../img/camiseta2.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta3
+{
+	background-image:url(../img/camiseta3.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta4
+{
+	background-image:url(../img/camiseta4.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta5
+{
+	background-image:url(../img/camiseta5.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta6
+{
+	background-image:url(../img/camiseta6.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta7
+{
+	background-image:url(../img/camiseta7.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta8
+{
+	background-image:url(../img/camiseta8.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta9
+{
+	background-image:url(../img/camiseta9.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta10
+{
+	background-image:url(../img/camiseta10.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#camiseta11
+{
+	background-image:url(../img/camiseta11.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#Pantalones
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	width:100%;
+	height:350px;
+	overflow:scroll;
+	display:none;
+}
+
+#Pantalones ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	display:inline-block;
+	cursor:pointer;
+}
+
+#Pantalones ul li h1
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:140px;
+	background-color:rgba(222,24,103,1.00);
+}
+
+#Pantalones ul li h3
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:10px;
+}
+
+#pantalon1
+{
+	background-image:url(../img/pantalon1.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon2
+{
+	background-image:url(../img/pantalon2.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon3
+{
+	background-image:url(../img/pantalon3.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon4
+{
+	background-image:url(../img/pantalon4.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon5
+{
+	background-image:url(../img/pantalon5.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon6
+{
+	background-image:url(../img/pantalon6.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon7
+{
+	background-image:url(../img/pantalon7.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon8
+{
+	background-image:url(../img/pantalon8.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon9
+{
+	background-image:url(../img/pantalon9.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon10
+{
+	background-image:url(../img/pantalon10.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#pantalon11
+{
+	background-image:url(../img/pantalon11.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#Zapatos
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	width:100%;
+	height:350px;
+	overflow:scroll;
+	display:none;
+}
+
+#Zapatos ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	display:inline-block;
+	cursor:pointer;
+}
+
+#Zapatos ul li h1
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:140px;
+	background-color:rgba(222,24,103,1.00);
+}
+
+#Zapatos ul li h3
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:10px;
+}
+
+#zapato1
+{
+	background-image:url(../img/zapato1.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato2
+{
+	background-image:url(../img/zapato2.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato3
+{
+	background-image:url(../img/zapato3.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato4
+{
+	background-image:url(../img/zapato4.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato5
+{
+	background-image:url(../img/zapato5.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato6
+{
+	background-image:url(../img/zapato6.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato7
+{
+	background-image:url(../img/zapato7.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato8
+{
+	background-image:url(../img/zapato8.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato9
+{
+	background-image:url(../img/zapato9.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato10
+{
+	background-image:url(../img/zapato10.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#zapato11
+{
+	background-image:url(../img/zapato11.png);
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+#item-seleccionado
+{
+	border:1px solid rgba(255,0,4,1.00);
+	width:275px;
+	height:400px;
+	margin:auto;
+	position:relative;
+	display:none;
+	background-size:160px 220px;
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-color:rgba(255,255,255,0.40);
+}
+
+#item-seleccionado h1
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:110px;
+	background-color:rgba(222,24,103,1.00);
+}
+
+#item-seleccionado h3
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	font-weight:lighter;
+	margin-top:5px;
+	text-shadow:2px 2px 2px rgba(0,0,0,0.42);
+}
+	
+#item-seleccionado p
+{
+	width:260px;
+	color:rgba(255,255,255,1.00);
+	text-align:center;
+	margin:auto;
+	margin-top:5px;
+	font-family:"orator-medium";
+	font-size:12px;
+}
+
+#item-seleccionado ul
+{
+	margin-top:20px;
+	margin-left:5px;
+}
+
+#item-seleccionado ul li
+{
+	list-style:none;
+	width:20px;
+	height:20px;
+	display:inline-block;
+	cursor:pointer;
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	-moz-transition:all 0.5s linear;
+	-o-transition:all 0.5s linear;
+}
+
+#item-seleccionado ul li:nth-child(1)
+{
+	border:1px solid rgba(49,43,187,1.00);
+}
+
+#item-seleccionado ul li:nth-child(2)
+{
+	border:1px solid rgba(223,49,49,1.00);
+}
+
+#item-seleccionado ul li:nth-child(3)
+{
+	border:1px solid rgba(255,255,255,1.00);
+}
+
+#item-seleccionado ul li:nth-child(4)
+{
+	border:1px solid rgba(0,0,0,1.00);
+}
+
+#item-seleccionado select
+{
+	width:60px;
+	height:25px;
+	border-radius:3px;
+	margin-left:5px;
+}
+
+.camisa1-sl
+{
+	background-image:url(../img/camisa1-sl.png);
+}
+
+.camisa2-sl
+{
+	background-image:url(../img/camisa2-sl.png);
+}
+
+.camisa3-sl
+{
+	background-image:url(../img/camisa3-sl.png);
+}
+
+.camisa4-sl
+{
+	background-image:url(../img/camisa4-sl.png);
+}
+
+.camisa5-sl
+{
+	background-image:url(../img/camisa5-sl.png);
+}
+
+.camisa6-sl
+{
+	background-image:url(../img/camisa6-sl.png);
+}
+
+.camisa7-sl
+{
+	background-image:url(../img/camisa7-sl.png);
+}
+
+.camisa8-sl
+{
+	background-image:url(../img/camisa8-sl.png);
+}
+
+.camisa9-sl
+{
+	background-image:url(../img/camisa9-sl.png);
+}
+
+.camisa10-sl
+{
+	background-image:url(../img/camisa10-sl.png);
+}
+
+.camisa11-sl
+{
+	background-image:url(../img/camisa11-sl.png);
+}
+
+.camiseta1-sl
+{
+	background-image:url(../img/camiseta1-sl.png);
+}
+
+.camiseta2-sl
+{
+	background-image:url(../img/camiseta2-sl.png);
+}
+
+.camiseta3-sl
+{
+	background-image:url(../img/camiseta3-sl.png);
+}
+
+.camiseta4-sl
+{
+	background-image:url(../img/camiseta4-sl.png);
+}
+
+.camiseta5-sl
+{
+	background-image:url(../img/camiseta5-sl.png);
+}
+
+.camiseta6-sl
+{
+	background-image:url(../img/camiseta6-sl.png);
+}
+
+.camiseta7-sl
+{
+	background-image:url(../img/camiseta7-sl.png);
+}
+
+.camiseta8-sl
+{
+	background-image:url(../img/camiseta8-sl.png);
+}
+
+.camiseta9-sl
+{
+	background-image:url(../img/camiseta9-sl.png);
+}
+
+.camiseta10-sl
+{
+	background-image:url(../img/camiseta10-sl.png);
+}
+
+.camiseta11-sl
+{
+	background-image:url(../img/camiseta11-sl.png);
+}
+
+.pantalon1-sl
+{
+	background-image:url(../img/pantalon1-sl.png);
+}
+
+.pantalon2-sl
+{
+	background-image:url(../img/pantalon2-sl.png);
+}
+
+.pantalon3-sl
+{
+	background-image:url(../img/pantalon3-sl.png);
+}
+
+.pantalon4-sl
+{
+	background-image:url(../img/pantalon4-sl.png);
+}
+
+.pantalon5-sl
+{
+	background-image:url(../img/pantalon5-sl.png);
+}
+
+.pantalon6-sl
+{
+	background-image:url(../img/pantalon6-sl.png);
+}
+
+.pantalon7-sl
+{
+	background-image:url(../img/pantalon7-sl.png);
+}
+
+.pantalon8-sl
+{
+	background-image:url(../img/pantalon8-sl.png);
+}
+
+.pantalon9-sl
+{
+	background-image:url(../img/pantalon9-sl.png);
+}
+
+.pantalon10-sl
+{
+	background-image:url(../img/pantalon10-sl.png);
+}
+
+.pantalon11-sl
+{
+	background-image:url(../img/pantalon11-sl.png);
+}
+
+.zapato1-sl
+{
+	background-image:url(../img/zapato1-sl.png);
+}
+
+.zapato2-sl
+{
+	background-image:url(../img/zapato2-sl.png);
+}
+
+.zapato3-sl
+{
+	background-image:url(../img/zapato3-sl.png);
+}
+
+.zapato4-sl
+{
+	background-image:url(../img/zapato4-sl.png);
+}
+
+.zapato5-sl
+{
+	background-image:url(../img/zapato5-sl.png);
+}
+
+.zapato6-sl
+{
+	background-image:url(../img/zapato6-sl.png);
+}
+
+.zapato7-sl
+{
+	background-image:url(../img/zapato7-sl.png);
+}
+
+.zapato8-sl
+{
+	background-image:url(../img/zapato8-sl.png);
+}
+
+.zapato9-sl
+{
+	background-image:url(../img/zapato9-sl.png);
+}
+
+.zapato10-sl
+{
+	background-image:url(../img/zapato10-sl.png);
+}
+
+.zapato11-sl
+{
+	background-image:url(../img/zapato11-sl.png);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#enbiarp
+{
+	position:absolute;
+	bottom:25px;
+	right:8px;
+	width:90px;
+	height:30px;
+	cursor:pointer;
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	background-color:rgba(222,24,103,1.00);
+	text-align:center;
+	border-radius:3px;
+	box-shadow:3px 3px 3px #910254;
+}
+
+#confirmar
+{
+	border:1px solid rgba(0,44,255,1.00);
+	width:275px;
+	height:400px;
+	margin:auto;
+	display:none;
+	background-color:rgba(255,255,255,0.15);
+}
+
+#confirmar form label
+{
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	text-align:center;
+	display:block;
+}
+
+#confirmar form input
+{
+	margin:auto;
+	text-align:left;
+	font-family:"orator-slt";
+	width:200px;
+	height:25px;
+	border:none;
+	border-radius:3px;
+	display:block;
+	box-shadow:inset 2px 2px 2px rgba(0,0,0,0.44);
+}
+
+#confirmar form input:last-child
+{
+	width:110px;
+	height:35px;
+	cursor:pointer;
+	color:rgba(255,255,255,1.00);
+	font-family:"orator-slt";
+	background-color:rgba(222,24,103,1.00);
+	text-align:center;
+	font-size:16px;
+	border-radius:3px;
+	box-shadow:3px 3px 3px #910254;
+}
+
+
+
+
+@font-face
+{
+font-family:"orator-slt";
+src:url(../fonts/1791948558.ttf);
+}
+			
+@font-face
+{
+font-family:"orator-medium";
+src:url(../fonts/3986250265.ttf);
+}
+
+@media screen and (max-width:950px)
+{
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:-5px;
+	display:inline-block;
+	border-radius:2px;
+}
+}
+
+@media screen and (max-width:800px)
+{
+header nav ul li
+{
+	font-size:12px;
+	width:85px;
+	height:35px;
+}
+
+#Bienvenida article p
+{
+	width:400px;
+}
+
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:20px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Camisetas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:20px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Pantalones ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:20px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Zapatos ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:20px;
+	display:inline-block;
+	border-radius:2px;
+}
+}
+
+@media screen and (max-width:600px)
+{
+header nav ul li:nth-child(4)
+{
+	margin-top:10px;
+}
+
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:48px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Camisetas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:48px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Pantalones ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:48px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Zapatos ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:48px;
+	display:inline-block;
+	border-radius:2px;
+}
+}
+
+@media screen and (max-width:480px)
+{
+header nav ul li
+{
+	font-size:13px;
+	height:35px;
+	margin-top:0px;
+	margin-left:10px;
+}
+
+header nav ul li:nth-child(1)
+{
+	margin-top:20px;
+}
+
+header nav ul li:nth-child(3)
+{
+	margin-top:10px;
+}
+
+#Bienvenida article p
+{
+	width:280px;
+}
+
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:12px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Camisetas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:12px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Pantalones ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:12px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Zapatos ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:12px;
+	display:inline-block;
+	border-radius:2px;
+}
+}
+
+@media screen and (max-width:380px)
+{
+header nav ul li
+{
+	margin-left:20px;
+}
+
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:75px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Camisetas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:75px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Pantalones ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:75px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Zapatos ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:75px;
+	display:inline-block;
+	border-radius:2px;
+}
+}
+
+@media screen and (max-width:320px)
+{
+header nav ul li
+{
+	font-size:12px;
+	height:35px;
+	width:90px;
+	margin-top:0px;
+	margin-left:-8px;
+	padding-top:6px;
+}
+
+#Bienvenida article p
+{
+	width:260px;
+	margin-bottom:50px;
+	margin-top:50px;
+}
+
+#Camisas
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	width:260px;
+	height:455px;
+	overflow:scroll;
+}
+
+#Camisas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:40px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Camisetas
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	height:455px;
+	overflow:scroll;
+}
+
+#Camisetas ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:40px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Pantalones
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	height:455px;
+	overflow:scroll;
+}
+
+#Pantalones ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:40px;
+	display:inline-block;
+	border-radius:2px;
+}
+
+#Zapatos
+{
+	border:1px solid rgba(0,0,0,1.00);
+	margin:auto;
+	height:455px;
+	overflow:scroll;
+}
+
+#Zapatos ul li
+{
+	list-style:none;
+	border:1px solid rgba(255,255,255,1.00);
+	width:160px;
+	height:220px;
+	margin-left:40px;
+	display:inline-block;
+	border-radius:2px;
+}
+}
+
+
+
+
+
